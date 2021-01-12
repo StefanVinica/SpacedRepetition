@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "env": {
+    "API_ENDPOINT": "https://git.heroku.com/frozen-eyrie-70726.git",
+    "TOKEN_KEY": "blogful-client-auth-token"
+  },
+  "chromeWebSecurity": false
+}
